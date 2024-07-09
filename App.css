@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  background-image: url("../Images/weather.jpg");
+  background-repeat: no-repeat;
+  max-width: fit-content;
+}
+
+header {
+  background-color: rgba(0, 123, 255, 0.8);
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+.form-select {
+  margin-top: 20px;
+  background-color: #fff;
+  color: #000;
+}
+
+.card {
+  margin-top: 20px;
+  background-color: rgba(248, 249, 250, 0.8);
+  border-radius: 10px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-body h2 {
+  margin-top: 0;
+}
